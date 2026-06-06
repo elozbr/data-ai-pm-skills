@@ -1,1 +1,12 @@
-
+{
+  "owner": "elozbr",
+  "name": "Data AI PM Skills",
+  "description": "Toolkit profissional portátil de Data AI PM",
+  "plugins": [
+    {
+      "name": "data-analytics",
+      "description": "Analytics de dados com foco em qualidade, decisão e comunicação executiva",
+      "path": "data-analytics"
+    }
+  ]
+}
