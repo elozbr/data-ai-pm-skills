@@ -1,5 +1,8 @@
 {
   "name": "data-analytics",
   "description": "Analytics de dados com foco em qualidade, decisão e comunicação executiva",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": {
+    "name": "Eloisa Bregagnoli"
+  }
 }
